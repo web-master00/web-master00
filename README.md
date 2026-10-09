@@ -1,13 +1,4 @@
 
-<div align="center">
-  <img
-    src="./web-master-header.jpg"
-    alt="Web Master - Full-Stack Developer"
-    width="100%"
-  />
-</div>
-
-
 <h3 align="center">
   🚀 Full-Stack Developer | Node.js • Python • React
 </h3>
