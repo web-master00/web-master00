@@ -1,8 +1,8 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/web-master-header.jpg"
-    alt="Web Master - Full-Stack Developer | Coding Since Before AI"
+    src="./web-master-header.jpg"
+    alt="Web Master - Full-Stack Developer"
     width="100%"
   />
 </div>
