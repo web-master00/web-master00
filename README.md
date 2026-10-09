@@ -8,8 +8,6 @@
 </div>
 
 
-<h1 align="center">👋 Hey, I'm Web Master!</h1>
-
 <h3 align="center">
   🚀 Full-Stack Developer | Node.js • Python • React
 </h3>
