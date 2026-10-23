@@ -1,25 +1,21 @@
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="web-master00 — Full-Stack Developer" width="100%" />
 
-<h3 align="center">
-  🚀 Full-Stack Developer | Node.js • Python • React
-</h3>
+  <br />
 
-<p align="center">
-  <strong>
-    💡 Turning complex ideas into scalable, high-performance digital solutions.
-  </strong>
-</p><br><h2>👨‍💻 About Me</h2>
+  **Building interfaces, APIs and reliable software systems.**
 
-<p>
-  I'm a passionate <strong>Full-Stack Developer</strong> focused on building
-  modern web applications, designing robust backend architectures, and
-  crafting intuitive user experiences.
-</p>
+  <p>
+    <a href="https://github.com/web-master00?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Explore-Projects-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/web-master00?tab=overview"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-0d9488?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
-<p>
-  I enjoy solving challenging problems, writing clean and maintainable code,
-  and continuously exploring new technologies to build software that makes
-  a difference.
-</p>
+## About
+
+I build web applications and backend services with an emphasis on readable code, practical architecture, and well-defined business logic. My public work spans **React / TypeScript**, **Node.js**, **Python / FastAPI**, and projects in Vue, Laravel, and other ecosystems.
+
+This profile is a curated index of projects and engineering experiments. Each repository contains its own implementation details; production-readiness and test coverage vary by project.
 
 <h2>🛠️ Tech Stack &amp; Expertise</h2>
 
@@ -139,3 +135,71 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MariaDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
+
+## Selected projects
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🏢 [Property Flow](https://github.com/web-master00/property-flow)
+
+Multi-client property revenue dashboard with a React frontend and an API backend.
+
+**Focus:** multi-tenancy, reporting, financial data handling.
+
+`React` `TypeScript` `Python` `FastAPI`
+
+</td><td width="50%" valign="top">
+
+### 📅 [Python Booking](https://github.com/web-master00/python-booking)
+
+Property booking API with listings, reservations, reviews and role-based access.
+
+**Focus:** API design, data modeling, authorization.
+
+`Python` `FastAPI` `SQLAlchemy`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🔔 [Notification Preferences](https://github.com/web-master00/notifications-preferences-service)
+
+Service for storing notification preferences and evaluating delivery eligibility.
+
+**Focus:** business rules, time zones, API behavior.
+
+`Node.js` `TypeScript` `PostgreSQL`
+
+</td><td width="50%" valign="top">
+
+### 🔁 [Ledger Kafka Demo](https://github.com/web-master00/ledger-kafka-demo)
+
+Demonstration of asynchronous transaction processing with Apache Kafka.
+
+**Focus:** messaging, event processing, reliability patterns.
+
+`TypeScript` `Kafka`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🎬 [VMSS](https://github.com/web-master00/VMSS)
+
+Linux screen recorder with webcam, microphone, system audio and teleprompter.
+
+**Focus:** desktop tooling and Linux integration.
+
+`Python` `Linux` `X11 / Wayland`
+
+</td><td width="50%" valign="top">
+
+### 🎮 [GameMarket](https://github.com/web-master00/gamemarket)
+
+Digital-goods marketplace with payment webhooks and key-delivery workflows.
+
+**Focus:** transaction boundaries, idempotency, concurrency.
+
+`Laravel` `PHP` `Database`
+
+</td></tr>
+</table>
